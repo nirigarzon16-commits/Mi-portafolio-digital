@@ -1,4 +1,4 @@
-# Nicolas Rico Garzon
+# Nicolas Rico Garzon🦇
 **Grado 11** | Estudiante de Educación Media  
 *Apasionado por la electrónica, el ciclismo y la música. Futuro Ingeniero Mecatrónico.*
 
@@ -10,36 +10,36 @@ Soy de Cartagena del Chairá, Caquetá, y actualmente me encuentro cursando grad
 ---
 
 ## 🎓 Formación Académica
+* **Institucion:** Institucion Educativa El chaira José Maria Córdoba
 * **Nivel Actual:** Educación Media / Grado 11 (Año 2026)
 * **Articulación SENA:** Técnico en Contabilización de Operaciones Comerciales y Financieras
 * **Proceso Formativo:** Durante mi formación académica y técnica he adquirido conocimientos en gestión administrativa, organización financiera, pensamiento lógico y trabajo en equipo, fortaleciendo mi disciplina y preparación para la educación superior.
-
 ---
 
 ## 💡 Habilidades
 
-### Habilidades Blandas
+### ✨Habilidades Blandas
 * **Responsabilidad y puntualidad:** Cumplimiento constante con actividades y deberes.
 * **Trabajo en equipo:** Colaboración y buena comunicación con compañeros.
 * **Perseverancia:** Mantener el esfuerzo ante retos y situaciones complejas.
 * **Organización:** Gestión estructurada del tiempo y recursos académicos.
 
-### Habilidades Técnicas
+### 💻 Habilidades Técnicas
 * Nociones básicas de electrónica.
-* Contabilización básica de operaciones comerciales y financieras (SENA).
-* Manejo de herramientas ofimáticas (Word, Excel) y entornos virtuales.
-* Creación y gestión de contenidos en plataformas digitales (GitHub).
+* Contabilización básica de operaciones comerciales y financieras.
+* Manejo de herramientas ofimática y entornos virtuales.
+* Creación y gestión de contenidos en plataformas digitales.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 1. Participación en la Feria Empresarial
+### 1.🛒 Participación en la Feria Empresarial
 * **¿En qué consistió?:** Desarrollo y estructuración de una idea de negocio como parte de la formación técnica.
 * **Herramientas utilizadas:** Análisis de costos, trabajo colaborativo y exposición pública.
 * **Resultado/Aprendizaje:** Fortalecimiento de habilidades comunicativas y comerciales.
 
-### 2. Proyecto en la Feria del Día de la Ciencia
+### 2.🔬 Proyecto en la Feria del Día de la Ciencia
 * **¿En qué consistió?:** Exposición de un proyecto aplicado enfocado en conceptos científicos y tecnológicos.
 * **Herramientas utilizadas:** Indagación, montaje experimental y sustentación.
 * **Resultado/Aprendizaje:** Estructuración de proyectos metodológicos de principio a fin.
