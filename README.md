@@ -13,7 +13,7 @@ Soy de Cartagena del Chairá, Caquetá, y actualmente me encuentro cursando grad
 * **Institucion:** Institucion Educativa El chaira José Maria Córdoba
 * **Nivel Actual:** Educación Media / Grado 11 (Año 2026)
 * **Articulación SENA:** Técnico en Contabilización de Operaciones Comerciales y Financieras
-* **Proceso Formativo:** Durante mi formación académica y técnica he adquirido conocimientos en gestión administrativa, organización financiera, pensamiento lógico y trabajo en equipo, fortaleciendo mi disciplina y preparación para la educación superior.
+* **Proceso Formativo:**  Durante mi formación académica y técnica he adquirido conocimientos en gestión administrativa, organización financiera, pensamiento lógico y trabajo en equipo, fortaleciendo mi disciplina y preparación para la educación superior. 
 ---
 
 ## 💡 Habilidades
